@@ -1,13 +1,14 @@
 Hola, soy Rosario 👋
 Soy analista de soporte tecnológico con una profunda pasión por el diseño en todas sus formas. Me caracterizo por mi energía, creatividad y amor por el aprendizaje. Actualmente, estoy ampliando mis conocimientos en programación y diseño a través de cursos y estudios universitarios.
 
-🛠️ Experiencia
+🛠️
 He adquirido experiencia en diseño y programación a través de diversos cursos y mi formación académica. En este momento, estoy trabajando en varios proyectos que me permiten aplicar y perfeccionar estas habilidades en un entorno práctico.
 
-🌟 Habilidades
+🌟 
 Lenguajes y tecnologías: React, Next.js, firebase
 Diseño: Illustrator, Figma
-🚀 Proyectos
+
+🚀 
 Estoy en pleno desarrollo de mi sitio web personal y otros proyectos interesantes. ¡Mantente al tanto para conocer más detalles pronto!
 
 🎨 Intereses
